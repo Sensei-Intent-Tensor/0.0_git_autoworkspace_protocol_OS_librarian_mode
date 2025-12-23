@@ -1,0 +1,2 @@
+# 0.0_git_autoworkspace_protocol_OS_librarian_mode
+0.0_git_autoworkspace_protocol_OS_librarian_mode
